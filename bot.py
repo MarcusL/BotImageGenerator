@@ -8,7 +8,7 @@ from image_gen import generate_image
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 
-bot = Bot(token=8783804570:AAGKAt4ctmUz0qknr5xTbLvTsim1k0G5AIo)
+bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
 
